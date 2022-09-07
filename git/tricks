@@ -1,0 +1,3 @@
+## How to setup github token in your shell
+git config --global url."https://<USERNAME>:<TOKEN>@github.com".insteadOf "https://github.com"
+
